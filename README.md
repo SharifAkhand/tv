@@ -60,6 +60,16 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",T Sports
 http://103.165.93.31:8095/tsports/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yTl9XIh.png" ,Unite8
+http://103.165.93.31:8095/unt-s/video.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CazeTV2022.svg", Caze TV Brazil 🇧🇷
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N09UZWA.png",TSN1
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/748388.ts
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png"group-title="SM All TV" group-title="SM All TV",Somoy TV
+http://114.130.57.233:8080/Somoy-TV-3Mb/video.m3u8?token=SkQuhAXZxgBan1
+
+
 
 
 
