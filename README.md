@@ -417,8 +417,11 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",P Tv Sports
+https://cz-pli2.hridoytv-route.workers.dev/proxy/https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=VYd5ULIbqeghETxznrd7cQ&expires=1786096224
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",A Sports
+https://cz-pli2.hridoytv-route.workers.dev/proxy/https://cdn6.zohanayaan.com:1686/hls/asportshd.m3u8?md5=VmCeMU-VKGQ_YpufRP2qCA&expires=1786096225
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports
 
