@@ -423,7 +423,11 @@ https://cz-pli2.hridoytv-route.workers.dev/proxy/https://cdn3.zohanayaan.com:168
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",A Sports
 https://cz-pli2.hridoytv-route.workers.dev/proxy/https://cdn6.zohanayaan.com:1686/hls/asportshd.m3u8?md5=VmCeMU-VKGQ_YpufRP2qCA&expires=1786096225
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSDFd1LJqPQMhYnIIpskiG9muZ7WJbNJt3jcLxmAdbAgCs2pxLpww4N8k&s=10"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports
+https://cz-pli2.hridoytv-route.workers.dev/proxy/https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=N-xV-N5tsqdfDv1qlNxWDA&expires=1786096224
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
@@ -450,6 +454,9 @@ https://messi.damitv.st/papi/ts/tudn-usa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports 1
 http://tvsen7.aynascope.net/sspts1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports 1
+https://cz-pli2.hridoytv-route.workers.dev/proxy/https://cdn3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=p-kzLEzp6FQfEp9ZOUtnHQ&expires=1786096224
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
