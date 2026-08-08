@@ -430,6 +430,9 @@ https://cz-pli2.hridoytv-route.workers.dev/proxy/https://cdn7.zohanayaan.com:168
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/rFKBNjwP/Ptvsportslogo2023.webp"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",PTV
