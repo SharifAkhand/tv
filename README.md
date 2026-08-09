@@ -10,6 +10,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/%E0%A6%AC%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg",BTV World
 https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
 
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://media.tenor.com/RSr9XzXTqp8AAAAe/dtv-logo.png",Dtv
+https://proxy5.hridoytv-link.workers.dev/link-copy-kore-lav-nai=expire43738831219634/_proxy?q=fWS99oIMSATsaMuvhFlzSxA9HFmixzqQ7-lqcHyDTtdp9xjeQl_wkruYSVItavGDMDWnBSotjlx3SM6adYsbm6qfrUqRqbqdQev2eA
+
 
 #EXTINF:-1 group-title="Bangla News"tvg-logo="https://i.postimg.cc/W4SwWtd3/20240822-225840.png",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
