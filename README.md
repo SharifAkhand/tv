@@ -1,7 +1,20 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="AzanTV.ca@SD" tvg-logo="https://i.imgur.com/JlqS6I4.jpeg" group-title="Religious",Azan TV
-https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="Sports",T-Sports
+https://proxy5.hridoytv-link.workers.dev/link-copy-kore-lav-nai=expire43738831219634/_proxy?q=B1ifXo1evGUaElmi-YORLQjsW6IAlzD5lm8XKX_fPW1AfUZPwtxg2I5V8LlrxO1j4W58OuHuWg04nJV6OZj6VDNYROpuCM3pVkcQZuGVTnc63xKbM4ilJtex5DQ
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="ChannelS.bd@SD" tvg-logo="https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" group-title="Culture",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelS.uk@SD" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="Culture",Channel S (576p)
