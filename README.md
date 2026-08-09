@@ -3,7 +3,8 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="Sports",T-Sports
 https://proxy5.hridoytv-link.workers.dev/link-copy-kore-lav-nai=expire43738831219634/_proxy?q=B1ifXo1evGUaElmi-YORLQjsW6IAlzD5lm8XKX_fPW1AfUZPwtxg2I5V8LlrxO1j4W58OuHuWg04nJV6OZj6VDNYROpuCM3pVkcQZuGVTnc63xKbM4ilJtex5DQ
 
-
+#EXTINF:-1 tvg-logo="https://jcwsw2vt33.gpcdn.net/uploads/images/2023/10/12/logos_d69df90f2ee31c99c7b2104f9e1bafd4_goplay_deeptoplay_logo_new.png?w=256&q=75" group-title="Bangla",Deepto Play
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=2232653
 
 
 
